@@ -1,0 +1,14 @@
+work/*
+!work/.gitkeep
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+Arc2Face/
+pretrained/
+models_indep/
+data/
+*.mp4
+*.m4a
+*.wav
+*.pt

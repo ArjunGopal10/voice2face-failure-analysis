@@ -1,0 +1,15 @@
+# GPU stages (2-4, 6). Use a CUDA runtime (Colab T4 or better).
+torch
+torchaudio
+speechbrain
+insightface
+onnxruntime-gpu
+diffusers
+transformers
+accelerate
+huggingface_hub
+opencv-python-headless
+pillow
+gradio
+pandas
+scipy
